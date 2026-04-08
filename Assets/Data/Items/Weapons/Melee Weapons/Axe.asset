@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b854466bb2b9c6642af6a3c72b126d6d, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: Axe
+  itemDescription: 
+  ItemID: 1
+  weaponModel: {fileID: 8976773306312667271, guid: bdc099db594a15e42ae4b46dfb28f1c1, type: 3}
+  strenghtREQ: 0
+  dexREQ: 0
+  intREQ: 0
+  faithREQ: 0
+  physicalDamage: 0
+  magicDamage: 0
+  poiseDamage: 0
